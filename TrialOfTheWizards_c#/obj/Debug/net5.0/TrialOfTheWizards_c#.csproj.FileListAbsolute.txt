@@ -1,0 +1,16 @@
+C:\Users\44pot\Documents\C# Programs\TrialOfTheWizards_c#\bin\Debug\net5.0\TrialOfTheWizards_c#.exe
+C:\Users\44pot\Documents\C# Programs\TrialOfTheWizards_c#\bin\Debug\net5.0\TrialOfTheWizards_c#.deps.json
+C:\Users\44pot\Documents\C# Programs\TrialOfTheWizards_c#\bin\Debug\net5.0\TrialOfTheWizards_c#.runtimeconfig.json
+C:\Users\44pot\Documents\C# Programs\TrialOfTheWizards_c#\bin\Debug\net5.0\TrialOfTheWizards_c#.runtimeconfig.dev.json
+C:\Users\44pot\Documents\C# Programs\TrialOfTheWizards_c#\bin\Debug\net5.0\TrialOfTheWizards_c#.dll
+C:\Users\44pot\Documents\C# Programs\TrialOfTheWizards_c#\bin\Debug\net5.0\ref\TrialOfTheWizards_c#.dll
+C:\Users\44pot\Documents\C# Programs\TrialOfTheWizards_c#\bin\Debug\net5.0\TrialOfTheWizards_c#.pdb
+C:\Users\44pot\Documents\C# Programs\TrialOfTheWizards_c#\obj\Debug\net5.0\TrialOfTheWizards_c#.csproj.AssemblyReference.cache
+C:\Users\44pot\Documents\C# Programs\TrialOfTheWizards_c#\obj\Debug\net5.0\TrialOfTheWizards_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44pot\Documents\C# Programs\TrialOfTheWizards_c#\obj\Debug\net5.0\TrialOfTheWizards_c#.AssemblyInfoInputs.cache
+C:\Users\44pot\Documents\C# Programs\TrialOfTheWizards_c#\obj\Debug\net5.0\TrialOfTheWizards_c#.AssemblyInfo.cs
+C:\Users\44pot\Documents\C# Programs\TrialOfTheWizards_c#\obj\Debug\net5.0\TrialOfTheWizards_c#.csproj.CoreCompileInputs.cache
+C:\Users\44pot\Documents\C# Programs\TrialOfTheWizards_c#\obj\Debug\net5.0\TrialOfTheWizards_c#.dll
+C:\Users\44pot\Documents\C# Programs\TrialOfTheWizards_c#\obj\Debug\net5.0\ref\TrialOfTheWizards_c#.dll
+C:\Users\44pot\Documents\C# Programs\TrialOfTheWizards_c#\obj\Debug\net5.0\TrialOfTheWizards_c#.pdb
+C:\Users\44pot\Documents\C# Programs\TrialOfTheWizards_c#\obj\Debug\net5.0\TrialOfTheWizards_c#.genruntimeconfig.cache
